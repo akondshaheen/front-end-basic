@@ -1,0 +1,13 @@
+/**
+id mention with # sign.
+class mention with . sign.
+*/
+#FirstPara {
+    color: blue; font-size: 32px; font-weight: 800
+}
+.FirstPara {
+    color: red; font-size: 28px; font-weight: 400
+}
+.SecondPara {
+    color: darkcyan; font-size: 22; font-weight: bold; font-style: italic
+}

@@ -1,0 +1,7 @@
+Html text editor:
+http://brackets.io/
+
+
+
+dummy text for web development:
+https://www.lipsum.com/feed/html
